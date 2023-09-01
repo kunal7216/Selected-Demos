@@ -1,3 +1,4 @@
+
 let cursor = document.getElementById("cursor");
 let close = document.getElementById("close");
 let body = document.body;
